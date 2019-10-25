@@ -1,0 +1,5 @@
+__phcache__
+*.pyc
+db.sqlite3
+/static
+*~
